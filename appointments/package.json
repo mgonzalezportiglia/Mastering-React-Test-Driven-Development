@@ -1,0 +1,15 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Appointments system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
