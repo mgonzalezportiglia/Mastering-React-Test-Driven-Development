@@ -1,5 +1,5 @@
 import React from 'react'
 
 export const Appointment = ({ customer: { firstName } }) => (
-    <div>{firstName}</div>
+    <div>{customer.firstName}</div>
 )
